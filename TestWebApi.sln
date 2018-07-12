@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerkoTestWebApi", "SerkoTestWebApi\SerkoTestWebApi.csproj", "{B234F180-ABAC-4598-9942-2D9ABF710C76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppLibrary", "AppLibrary\AppLibrary.csproj", "{7ABA5FD9-D646-4C1E-9CE0-D8F5F33D3558}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiClient", "ApiClient\ApiClient.csproj", "{51CF5289-7E64-4DD9-9061-16CB147FDA73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B234F180-ABAC-4598-9942-2D9ABF710C76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B234F180-ABAC-4598-9942-2D9ABF710C76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B234F180-ABAC-4598-9942-2D9ABF710C76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B234F180-ABAC-4598-9942-2D9ABF710C76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7ABA5FD9-D646-4C1E-9CE0-D8F5F33D3558}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ABA5FD9-D646-4C1E-9CE0-D8F5F33D3558}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ABA5FD9-D646-4C1E-9CE0-D8F5F33D3558}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ABA5FD9-D646-4C1E-9CE0-D8F5F33D3558}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51CF5289-7E64-4DD9-9061-16CB147FDA73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51CF5289-7E64-4DD9-9061-16CB147FDA73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51CF5289-7E64-4DD9-9061-16CB147FDA73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51CF5289-7E64-4DD9-9061-16CB147FDA73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
